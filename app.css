@@ -1,0 +1,42 @@
+h1 {
+    font-family: "Ink Free", Times, serif;
+    font-size: 550%;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Ink Free", Times, serif;
+    font-size: 200%;
+    text-align: center;
+}
+
+.c1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 23%, rgba(201,195,226,1) 66%);
+}
+
+h3 {
+    font-family: "Ink Free", Times, serif;
+    font-size: 170%;
+    text-align: center;
+}
+
+.c2 {
+    display: flex;
+    margin-left: 170px;
+    text-align: center;
+    width: 50%;
+}
+
+.c3 {
+    display: flex;
+    margin-left: 170px;
+    text-align: center;
+    width: 50%;
+}
+
